@@ -1,0 +1,12 @@
+players_per_team 5
+total_overs 2
+batting_order team1 P1 P2 P3 P4 P5
+over 1 1 1 1 1 2
+scorecard team1
+over W 4 4 WD W 1 6
+scorecard team1
+batting_order team2 P6 P7 P8 P9 P10
+over 4 6 W W 1 1
+scorecard team2
+over 6 1 W W
+scorecard team2
